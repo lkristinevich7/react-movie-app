@@ -25,7 +25,7 @@ const MovieList = props => {
           image={movie.imageUrl}
           title={movie.title}
           description={movie.description}
-          address={movie.address}
+          link={movie.link}
           creatorId={movie.creator}
           coordinates={movie.location}
         />
