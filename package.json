@@ -2,7 +2,7 @@
   "name": "myplace-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://lkristinevich7.github.io/places-app/",
+  "homepage": "http://lkristinevich7.github.io/react-movie-app/",
   "dependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
