@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/places-app/static/css/main.71a0e00d.chunk.css",
+    "main.js": "/places-app/static/js/main.8df9f857.chunk.js",
+    "main.js.map": "/places-app/static/js/main.8df9f857.chunk.js.map",
+    "runtime-main.js": "/places-app/static/js/runtime-main.3202b7e9.js",
+    "runtime-main.js.map": "/places-app/static/js/runtime-main.3202b7e9.js.map",
+    "static/js/2.215f8639.chunk.js": "/places-app/static/js/2.215f8639.chunk.js",
+    "static/js/2.215f8639.chunk.js.map": "/places-app/static/js/2.215f8639.chunk.js.map",
+    "index.html": "/places-app/index.html",
+    "precache-manifest.de18fdda6797b5f76986921f2a6985ae.js": "/places-app/precache-manifest.de18fdda6797b5f76986921f2a6985ae.js",
+    "service-worker.js": "/places-app/service-worker.js",
+    "static/css/main.71a0e00d.chunk.css.map": "/places-app/static/css/main.71a0e00d.chunk.css.map",
+    "static/js/2.215f8639.chunk.js.LICENSE.txt": "/places-app/static/js/2.215f8639.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3202b7e9.js",
+    "static/js/2.215f8639.chunk.js",
+    "static/css/main.71a0e00d.chunk.css",
+    "static/js/main.8df9f857.chunk.js"
+  ]
+}
