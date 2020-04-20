@@ -25,7 +25,7 @@ const DUMMY_MOVIES = [
     description: "Though it is ultimately somewhat undone by its own lofty ambitions, The Devil's Advocate is a mostly effective blend of supernatural thrills and character exploration.!",
     imageUrl: "https://courtingthelaw.com/wp-content/uploads/devils-advocate-.jpg",
     link:"https://fsharetv.co/movie/the-devil's-advocate-episode-1-tt0118971",
-    creator: 'u2'
+    creator: 'u1'
   }
 ];
 
